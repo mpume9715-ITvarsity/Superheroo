@@ -1,0 +1,36 @@
+.gallery img{
+    align-items: center;
+    width: 400px;
+        height:400px; 
+}
+
+table{ font-family: Helvitica, sans-serif;
+    border-collapse: collapse;
+    border-width: 1px;
+    border-style: focus;
+    border-color:chocolate;   
+}
+    
+    
+h1{
+    color:cadetblue;
+    font-family: sans-serif;
+    font-size: 50px ;
+    text-align: center;
+}
+
+h2{
+    font-family: cursive;
+    font-size: 15px;
+    font-variant-position: sub;
+    text-align: left;    
+    
+}
+
+#menu{
+    background-color: darkblue;
+    text-align: center;   
+}
+
+    
+
