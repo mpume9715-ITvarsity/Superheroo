@@ -3,13 +3,6 @@
     width: 400px;
         height:400px; 
 }
-
-table{ font-family: Helvitica, sans-serif;
-    border-collapse: collapse;
-    border-width: 1px;
-    border-style: focus;
-    border-color:chocolate;   
-}
     
     
 h1{
@@ -27,9 +20,13 @@ h2{
     
 }
 
-#menu{
+#menu a{
     background-color: darkblue;
     text-align: center;   
+    font-weight: 800;
+    padding-right:20px;
+    padding-left: 20px;
+    font-family: helvetica, sans-serif;
 }
 
     
